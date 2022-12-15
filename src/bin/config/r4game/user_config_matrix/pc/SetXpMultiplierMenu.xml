@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<UserConfig>
+	
+	<Group id="SetXpMultiplier" displayName="Mods.sxpm_SetXPMultiplier">
+		<VisibleVars>
+			<Var id="SetXpMultiplierSwitch" displayName="sxpm_ONOFFSwitch" displayType="TOGGLE"/>
+			<Var id="SetXpMultiplierValue" displayName="sxpm_XPMultiplier" displayType="SLIDER;0;10;100"/>
+			<Var id="SetXpMultiplierUseDifficulty" displayName="sxpm_UseDifficulty" displayType="TOGGLE"/>
+			<Var id="SetXpMultiplierForceZero" displayName="sxpm_StopAllXp" displayType="TOGGLE"/>
+		</VisibleVars>
+	</Group>
+	
+</UserConfig>
